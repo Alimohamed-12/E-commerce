@@ -1,0 +1,34 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.main{
+  background-image: url(../src/assets/images.jpg);
+  background-size: 100% 100%;
+  height: 400px;
+}
+.categories{
+  list-style-type: none;
+
+}
+.container .cat{
+  width: 40%;
+  margin: auto;
+}
+.categories li button:hover{
+  background-color: black;
+  color: white;
+}
+.container .row div div p .totla-price{
+  margin-left: 190px;
+}
+.container .row div div p .shopping{
+  margin-left: 210px;
+}
+.container .row div div h4 .totalamo{
+  margin-left: 120px;
+}
+div div div div div h5{
+  font-size: 13px;
+}
